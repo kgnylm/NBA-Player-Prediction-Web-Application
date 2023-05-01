@@ -1,0 +1,13 @@
+.showButton {
+  position: absolute;
+  top: 35.9rem;
+  right: 37rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #000000;
+  border-radius: 1rem;
+  padding: 0.5rem;
+  cursor: pointer;
+  background-color: #a5a5a5;
+}

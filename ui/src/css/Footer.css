@@ -1,0 +1,26 @@
+.footer {
+  background-color: #969696;
+  border-top: 1px solid #e7e7e7;
+  margin-bottom: 0%;
+  margin-top: 14.5%;
+  padding: 1rem;
+  text-align: center;
+}
+
+.text {
+  font-size: large;
+}
+
+.text-light {
+  color: #d8d8d8;
+}
+
+.text-link {
+  color: #d8d8d8;
+  text-decoration: none;
+  transition: color 0.2s;
+}
+
+.text-link:hover {
+  color: #0056b3;
+}
