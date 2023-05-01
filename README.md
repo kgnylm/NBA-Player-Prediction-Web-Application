@@ -1,4 +1,12 @@
-# Nba-Players-Guess-Game
+# NBA-Players-Prediction-Web-Application
+
+This web application has been developed using React, Node.js, and MongoDB. The application displays a random NBA player's image and name, but the name is blurred out. The user can reveal the name by correctly typing it in the input field.
+
+On every page refresh, the application retrieves information about a different NBA player from the database and displays it. This allows users to learn about various NBA players.
+
+# Installation
+
+To run the application, Node.js and MongoDB must be installed.
 
 # Getting Started with Create React App
 
