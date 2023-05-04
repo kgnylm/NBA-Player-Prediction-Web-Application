@@ -4,6 +4,9 @@ This web application has been developed using React, Node.js, and MongoDB. The a
 
 On every page refresh, the application retrieves information about a different NBA player from the database and displays it. This allows users to learn about various NBA players.
 
+<img width="1680" alt="SCR-20230504-q3w" src="https://user-images.githubusercontent.com/73056508/236260511-e266017f-3954-459c-8b17-13c6887be780.png">
+
+
 # Installation
 
 To run the application, Node.js and MongoDB must be installed.
