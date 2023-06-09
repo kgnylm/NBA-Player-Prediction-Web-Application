@@ -5,8 +5,7 @@
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node server.js & cd ui && PORT=3000 npm start",
-    "build": "node server.js & cd ui && npm run build"
+    "start": "node server.js"
   },
   "author": "Kağan Yalım",
   "license": "ISC",
