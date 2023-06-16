@@ -18,7 +18,7 @@ const MainPage = () => {
   const fetchPlayerData = async () => {
     try {
       const response = await axios.get(
-        'http://localhost:3002/api/v1/players/home'
+        'https://nba-player-prediction-web-application.onrender.com/api/v1/players/home'
       )
       setPlayerData(response.data)
     } catch (error) {
