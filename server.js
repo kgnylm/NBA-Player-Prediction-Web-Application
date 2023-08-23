@@ -2,7 +2,7 @@ const mongoose = require('mongoose')
 const dotenv = require('dotenv')
 dotenv.config({ path: './config.env' })
 const app = require('./app')
-port =10000
+port =3000
 const hostname = 'localhost'
 
 const DB = process.env.DATABASE.replace(
